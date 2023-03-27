@@ -1,0 +1,22 @@
+[
+    {
+        "oper_id": "kkSl6aHTiKPTtE0N+JAkuQ==",
+        "proc_id": "ksmlae2TvkstHoANajwd5w==",
+        "oper_card": 518,
+        "oper_started": "2023-02-28T10:12:37",
+        "oper_ended": "2023-02-28T10:12:46",
+        "oper_equip_id": 14,
+        "oper_coocker_id": 15,
+        "oper_active": false
+    },
+    {
+        "oper_id": "J6LvWFEXoSAYnYSrG3pQ5Q==",
+        "proc_id": "60cseZ0s/RLF9H2hfqdPVg==",
+        "oper_card": 518,
+        "oper_started": "2023-02-28T10:12:37",
+        "oper_ended": "2023-02-28T10:12:46.150",
+        "oper_equip_id": 14,
+        "oper_coocker_id": 15,
+        "oper_active": false
+    }
+]
